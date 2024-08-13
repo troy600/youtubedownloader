@@ -1,0 +1,3 @@
+import distro
+
+distro.name()
