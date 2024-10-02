@@ -1,3 +1,0 @@
-import distro
-
-distro.name()
